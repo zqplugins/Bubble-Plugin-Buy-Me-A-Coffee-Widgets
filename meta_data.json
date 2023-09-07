@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "0": "technical",
+        "1": "productivity",
+        "2": "blog",
+        "3": "payment",
+        "4": "ecommerce"
+    },
+    "demo_page": "https://clasic-plugins.bubbleapps.io/version-test/buymeacoffee",
+    "description": "Use the BuyMeACoffee button generated with dynamic values on your site.\n\nIdea from https://www.buymeacoffee.com/brand\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//s3.amazonaws.com/appforest_uf/f1666809545312x732079584408913200/giphy%20%284%29.gif",
+    "license": "open_source",
+    "link": "https://zeroqode.com/",
+    "name": "Buy Me A Coffee Widgets",
+    "plugin_instructions": "1 - Download the plugin\n2 - Drag the plugin element in your app\n3 - Add Custom Buy Me A Coffee Widgets"
+}
