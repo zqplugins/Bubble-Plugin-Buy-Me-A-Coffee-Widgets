@@ -1,0 +1,67 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 200,
+        "width": 800
+    },
+    "display": "BuyMeACoffee",
+    "fields": {
+        "AAD": {
+            "caption": "account",
+            "doc": "Your user account, will be on the link to redirect user. https://www.buymeacoffee.com/{account}",
+            "editor": "StaticText",
+            "name": "account",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAE": {
+            "caption": "colour",
+            "default_val": "yellow",
+            "doc": "Only use the name of the color",
+            "editor": "StaticText",
+            "name": "colour",
+            "optional": true,
+            "rank": 1
+        },
+        "AAF": {
+            "caption": "type",
+            "default_val": "Standard button",
+            "editor": "Dropdown",
+            "name": "type",
+            "optional": false,
+            "options": "Standard button,Button + supporter count",
+            "rank": 2
+        },
+        "AAG": {
+            "caption": "iconcolour",
+            "default_val": "ffffff",
+            "editor": "StaticText",
+            "name": "iconcolour",
+            "optional": true,
+            "rank": 3
+        },
+        "AAH": {
+            "caption": "fontcolour",
+            "default_val": "000000",
+            "editor": "StaticText",
+            "name": "fontcolour",
+            "optional": true,
+            "rank": 4
+        },
+        "AAI": {
+            "caption": "text",
+            "default_val": "Buy me a coffee",
+            "doc": "Text inside button",
+            "editor": "DynamicValue",
+            "name": "text",
+            "rank": 5,
+            "value": "text"
+        }
+    },
+    "icon": "ion-coffee",
+    "property_applications": {
+        "MinWidth": true,
+        "resizable": true
+    }
+}
